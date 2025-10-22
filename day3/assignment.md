@@ -1,6 +1,7 @@
 # Day 3: Todo Application Assignment
 
 **Deadline:** October 23, 2025 at 11:00 AM
+[Submit Here](https://abhimanyujha-workspace.notion.site/2940cc69f2ab80198533d18e4c8b9938?pvs=105)
 
 ---
 
@@ -39,7 +40,7 @@ Example structure:
 <ul id="taskList"></ul>
 ```
 
-### 3. **Async Operations** (Optional Bonus)
+### 3. **Async Operations**
 
 Fetch initial todos from the API and display them:
 
@@ -113,7 +114,7 @@ These videos cover React basics that will prepare you for upcoming lessons.
 
 ## Submission Checklist
 
-- [] Repository is public and named `todo-application`
+- [ ] Repository is public and named `todo-application`
 - [ ] All 5 branches created (main, development, 3 features)
 - [ ] Each feature branch has a README.md
 - [ ] All features merged to development, then to main
