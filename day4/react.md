@@ -673,6 +673,12 @@ Take your todo application from Day 3 and convert it to React:
 
 ---
 
+## Lesson Task
+
+- complete react lessons till 21
+
+---
+
 ## Common Pitfalls to Avoid
 
 **1. Mutating State Directly**
